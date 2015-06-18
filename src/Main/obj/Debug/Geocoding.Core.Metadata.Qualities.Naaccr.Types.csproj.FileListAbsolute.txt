@@ -1,0 +1,4 @@
+C:\DevBuild\Tamu\GeoInnovation\Geocoding\Core.Metadata.Qualities.Naaccr.Types\build\1.0.0\release\Tamu.GeoInnovation.Geocoding.Core.Metadata.Qualities.Naaccr.Types.dll
+C:\DevBuild\Tamu\GeoInnovation\Geocoding\Core.Metadata.Qualities.Naaccr.Types\build\1.0.0\release\Tamu.GeoInnovation.Geocoding.Core.Metadata.Qualities.Naaccr.Types.pdb
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.Metadata.Qualities.Naaccr.Types\src\Main\obj\Debug\Tamu.GeoInnovation.Geocoding.Core.Metadata.Qualities.Naaccr.Types.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding\Core.Metadata.Qualities.Naaccr.Types\src\Main\obj\Debug\Tamu.GeoInnovation.Geocoding.Core.Metadata.Qualities.Naaccr.Types.pdb
