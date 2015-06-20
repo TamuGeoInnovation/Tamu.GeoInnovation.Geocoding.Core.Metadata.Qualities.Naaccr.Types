@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Data;
-using USC.GISResearchLab.Common.Addresses.AbstractClasses;
 
 
 namespace USC.GISResearchLab.Geocoding.Core.Metadata.Qualities
