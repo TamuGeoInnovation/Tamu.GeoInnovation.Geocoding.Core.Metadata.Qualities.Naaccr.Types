@@ -1,7 +1,4 @@
-﻿using System;
-
-
-namespace USC.GISResearchLab.Geocoding.Core.Metadata.Qualities
+﻿namespace USC.GISResearchLab.Geocoding.Core.Metadata.Qualities
 {
 
     public enum NAACCRCensusTractCertaintyType
